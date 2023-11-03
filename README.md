@@ -20,4 +20,4 @@ I've created a responsive image gallery using React JS with the following featur
    - A smooth and responsive user experience is ensured.
    - Implemented transitions/animations for a polished look and feel.
 6. **Live Demo:**
-   - After completing Production build, project is being deployed at [Netlify](:https://reodering-image-gallery-react-dnd.netlify.app/).
+   - After completing Production build, project is being deployed at [Netlify](https://reodering-image-gallery-react-dnd.netlify.app/).
