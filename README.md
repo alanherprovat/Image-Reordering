@@ -1,6 +1,7 @@
 ## Image-Reordering
 
 I've created a responsive image gallery using React JS with the following features: reordering, deleting multiple images, and setting a feature image. The gallery is quite visually appealing and provide a seamless user experience.
+
 ![Preview](https://drive.google.com/uc?export=view&id=13rxDw2_K278fpTqGVlohY1A2uwp0tzbw).
 
 ## Functionalities:
